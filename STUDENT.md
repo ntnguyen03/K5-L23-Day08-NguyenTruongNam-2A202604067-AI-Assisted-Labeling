@@ -2,7 +2,7 @@
 
 - Họ và tên: Nguyễn Trường Nam
 - MSHV: 2A202604067
-- Lớp: L23 theo mã repo, cần xác nhận phân lớp L2 hoặc L3
+- Lớp: L23
 - Tài khoản GitHub: ntnguyen03
 - Repo bài nộp: https://github.com/ntnguyen03/K5-L23-Day08-NguyenTruongNam-2A202604067-AI-Assisted-Labeling
 - Commit tham chiếu trước cập nhật báo cáo: 00fbe1a. Cập nhật hash chốt sau khi commit.
