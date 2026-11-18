@@ -5,7 +5,7 @@
 - Lớp: L23
 - Tài khoản GitHub: ntnguyen03
 - Repo bài nộp: https://github.com/ntnguyen03/K5-L23-Day08-NguyenTruongNam-2A202604067-AI-Assisted-Labeling
-- Commit tham chiếu trước cập nhật báo cáo: 00fbe1a. Cập nhật hash chốt sau khi commit.
+- Commit tham chiếu: 1639029.
 - Máy: Windows, RAM 16 GB, inference CPU
 - CVAT Docker: localhost:8080; 2.74.1
 
