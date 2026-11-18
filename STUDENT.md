@@ -1,19 +1,19 @@
 # Thông tin học viên
 
-- Họ và tên: <<>>
-- MSHV: <<>>
-- Lớp (L2 / L3 / khác): <<>>
-- Tài khoản GitHub: <<>>
-- Repo bài nộp (URL): <<>>
-- Commit chốt bài (hash): <<>>
-- Máy: <<hệ điều hành, GPU (CUDA / MPS / không có)>>
-- CVAT (Docker): <<phiên bản, ví dụ v2.81.0>>
+- Họ và tên: Nguyễn Trường Nam
+- MSHV: 2A202604067
+- Lớp: L23 theo mã repo, cần xác nhận phân lớp L2 hoặc L3
+- Tài khoản GitHub: ntnguyen03
+- Repo bài nộp: https://github.com/ntnguyen03/K5-L23-Day08-NguyenTruongNam-2A202604067-AI-Assisted-Labeling
+- Commit tham chiếu trước cập nhật báo cáo: 00fbe1a. Cập nhật hash chốt sau khi commit.
+- Máy: Windows, RAM 16 GB, inference CPU
+- CVAT Docker: localhost:8080; 2.74.1
 
-## Kết quả tóm tắt (điền cuối bài; số lấy từ `submission/qc/*`, kèm mẫu số)
+## Kết quả tóm tắt
 
-- Máy: accepted / edited / deleted: <<... / ... / ... (mẫu số: ... box máy)>>; added: <<... (mẫu số: ... đối tượng)>>
-- So với gold: precision / recall của **máy** <<... / ...>>
-- Bắt bẫy: <<.../12 = ...%>>
-- Thời gian: gán tay <<... phút/ảnh>>; duyệt có pre-label <<... phút/ảnh>>
-- Lỗi QC: <<...% theo ảnh (.../...)>>, <<...% theo đối tượng (.../...)>>
-- **Quyết định:** <<Release / Hold / Rework>> — lý do một dòng: <<...>>
+- Accepted / edited / deleted: 452/452 = 100%, 0/452 = 0%, 0/452 = 0%; added 0/452 = 0%.
+- Precision máy: 38/54 = 70,4%; recall: 38/41 = 92,7% trên 4 ảnh gold.
+- Bắt bẫy: 0/12 = 0%.
+- Thời gian gán tay và review: chưa có bản ghi thực, chưa tính phút/ảnh.
+- QC: 2/5 ảnh = 40%; 2/100 đối tượng = 2%.
+- Quyết định: Rework, cần kiểm tra bản export và duyệt lại lô trước khi phát hành.

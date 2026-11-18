@@ -1,1 +1,4 @@
 case_id,image,nguon,van_de,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline
+CAL-01,img_013.jpg,loi_may,"Log SAM ghi nhận tuk-tuk bị YOLO26 gán thành car","Đối chiếu cấu trúc xe ba bánh và sửa về three_wheeler khi review","Nhắc lại mục 2: mui và kính chắn gió không làm tuk-tuk chuyển thành car",v1.1
+CAL-02,img_013.jpg,cau_hoi_mo,"Người lái chạm thân xe trong vùng mở của tuk-tuk","Tách người lái khỏi mask xe và tạo mask person riêng cho phần người nhìn thấy","Bổ sung mục 4.2: mask xe loại người lái và hành khách dù họ chạm ghế hoặc tay lái",v1.1
+CAL-03,img_004.jpg,cau_hoi_mo,"Kính trước tuk-tuk nhìn xuyên được dễ bị loại như khoảng trống","Giữ kính chắn gió thuộc mask xe và loại khoảng hở không có kính","Làm rõ mục 4.2.3: kính thuộc xe dù trong suốt; khoảng hở thực sự theo quy tắc lỗ ở mục 4.2.2",v1.1
